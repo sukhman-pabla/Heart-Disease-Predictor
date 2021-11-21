@@ -1,21 +1,18 @@
-# Heart Disease Prediction Project ❤
-This repository consists of files required to deploy a Machine Learning Web App created with Flask and deployed using Heroku platform.
+# Heart Disease Prediction Project 
 
-<img src="https://healthblog.uofmhealth.org/sites/consumer/files/2020-01/heart_beating_0.gif">
+A web application to successfully predict whether a person is suffering from heart disease or not.
 
-#### If you want to view the deployed model, click on the following link:
+## Live Link :
 
-• https://heart-diseases-pred.herokuapp.com/
+https://heart-disease-web-app.herokuapp.com/
 
-## Demo
+## Flowchart of Methodology
 
-<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif.gif">
-<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif1.gif">
+![138545773-b4a7c2dd-2587-4ac2-bbc4-92e12520b148](https://user-images.githubusercontent.com/91077593/142772505-e9e375b2-9a84-47ef-8d81-6146e3f0825f.jpeg)
 
 ## Dataset
 
 [Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
-
 
 ## Tech Stack
 
@@ -30,86 +27,24 @@ This repository consists of files required to deploy a Machine Learning Web App 
 - Pycharm
 - Heroku
 
-  
-## Running Tests
-
-To run app, run the following command
-
-```bash
-  python app.run
-```
-
-  
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/screenshot.png)
-
+![Screenshot (484)](https://user-images.githubusercontent.com/91077593/142772538-60df0a0c-f5a1-42dd-aa37-278f0e713c28.png)
+<br>
+<br>
+Normal -
+![Screenshot (485)](https://user-images.githubusercontent.com/91077593/142772592-26583bb1-f7d6-4ad1-892c-537c3b358db0.png)
+![Screenshot (486)](https://user-images.githubusercontent.com/91077593/142772595-2811e087-141c-47c8-b03c-5dbdd7e83d1c.png)
+<br>
+<br>
+Heart Disease - 
+![Screenshot (487)](https://user-images.githubusercontent.com/91077593/142772612-441d81b8-fe8a-4f07-9a4c-37264a801e9a.png)
+![Screenshot (488)](https://user-images.githubusercontent.com/91077593/142772614-8650e347-634c-4d3b-bb05-9736eb36baab.png)
+<br>
   
-## Deployment
+## Novelty
 
-To deploy this project run following command in the project folder
+- Heart disease is one of the most significant problem that is arising in the world today. Cardiovascular disease prediction is a critical challenge in the area of clinical data analysis. Machine learning (ML) has been showing an effective assistance in making decisions and predictions from the large quantity of data produced by the healthcare industries and hospitals.
+- Chronic Disease Prediction plays a pivotal role in healthcare informatics. It is crucial to diagnose the disease at an early stage.
+- User can search for doctor’s help at any point of time and talk about their Heart Disease and get instant diagnosis.
 
-```bash
-  git bash open
-```
-
-Create .git file
-```bash
-  git init
-```
-Track all the files
-```bash
-  git add .
-```
-Cheacking file track or not
-```bash
-  git status
-```
-Store as separate version
-```bash
-  git commit -m 'message'
-```
-### Deployment on Heroku
-
-Heroku login on git bash
-
-```bash
-  heroku login
-```
-Create new app
-
-```bash
-  heroku create
-```
-Push Code
-```bash
-  git remote -v
-```
-Push code to Master Branch
-```bash
-  git push heroku master
-```
-
-  
-## Related
-
-Here are some related projects
-
-
-[Liver Disease](https://github.com/SagarDhandare/Liver-Disease-Prediction-Project)
-
-[Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
-
-[Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
-
-[Chronic Kidney Disease](https://github.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project)
-
-[Breast Cancer Disease](https://github.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project)
-  
-## Feedback
-
-If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
-
-Please do ⭐ the repository, if you like this.😊
-
-Thank you ❤
